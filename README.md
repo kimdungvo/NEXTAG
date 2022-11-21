@@ -16,11 +16,11 @@ Project title: NEXTAG
          Vu Thien Nhut (NhutVTTS2008023@fpt.edu.vn) Student1275053
 ============================
 
-eProject documentation at https://github.com/kimdungvo/NEXTAG/tree/master/document
+eProject documentation at https://github.com/kimdungvo/eproject/tree/main/document
 
 ============================
 
-eProject published at https://kimdungvo.github.io/NEXTAG/
+eProject published at https://kimdungvo.github.io/eproject/
 
 ============================
 
