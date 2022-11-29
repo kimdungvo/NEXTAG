@@ -1,7 +1,8 @@
 # SEM 1
-eProject-Group_6 Batch no.: T1.2008.A0
+eProject-Group 6 
+Batch no.: T1.2008.A0
 
-CENTER NAME: ACE-HCMC-2-FPT
+Center name: ACE-HCMC-2-FPT
 
 Project title: NEXTAG
 
