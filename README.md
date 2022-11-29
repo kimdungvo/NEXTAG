@@ -9,7 +9,7 @@ Project title: NEXTAG
 
 ========> Group 6 <=========
 
-3 collaborators:
+2 collaborators:
 
          Nguyen Thi Minh Thu (nguyenminhthu168@gmail.com) Student1273010
 
