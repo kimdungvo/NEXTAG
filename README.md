@@ -24,4 +24,4 @@ eProject published at https://kimdungvo.github.io/eproject/
 
 ============================
 
-Thank you for spending your time to look at our work.
+Thanks for spending your time to look at our work.
