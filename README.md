@@ -1,5 +1,6 @@
 # SEM 1
-eProject-Group 6 
+Group 6 
+
 Batch no.: T1.2008.A0
 
 Center name: ACE-HCMC-2-FPT
