@@ -1,5 +1,5 @@
 # SEM 1
-T1.2008.A0-eProject-Group_6 Batch no.: T1.2008.A0
+eProject-Group_6 Batch no.: T1.2008.A0
 
 CENTER NAME: ACE-HCMC-2-FPT
 
@@ -11,9 +11,8 @@ Project title: NEXTAG
 
          Nguyen Thi Minh Thu (nguyenminhthu168@gmail.com) Student1273010
 
-         Vo Thi Kin Dung (kimdungvo@gmail.com) Student1275249
+         Vo Thi Kim Dung (vothikimdung27@gmail.com) Student1275249
          
-         Vu Thien Nhut (NhutVTTS2008023@fpt.edu.vn) Student1275053
 ============================
 
 eProject documentation at https://github.com/kimdungvo/eproject/tree/main/document
