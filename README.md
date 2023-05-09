@@ -21,7 +21,7 @@ eProject documentation at https://github.com/kimdungvo/eproject/tree/main/docume
 
 ============================
 
-eProject published at https://kimdungvo.github.io/eproject/
+eProject published at https://kimdungvo.github.io/nextag/
 
 ============================
 
